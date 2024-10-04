@@ -1,0 +1,26 @@
+careersparker/.env
+# sonarlint plugin
+/.sonarlint/
+*.sonarlint/
+*.env
+.idea/
+ **.idea/**
+env/
+*.pyc
+careersparker/.env_local
+/careersparker/.idea/
+*.migrations/
+
+
+/careersparker/cvbuilder/migrations/
+careersparker/membership/migrations/0001_initial.py
+.idea/sonarlint/issuestore/f/6/f6f3241175fd8239f68517a42467864e5a31e675
+/.venv/
+/swagger/migrations/
+/.idea/
+/user/migrations/
+/careersparker/cvbuilder/migrations/
+/careersparker/membership/migrations/
+/careersparker/user/migrations/
+/careersparker/swagger/migrations/
+/careersparker/.idea/sonarlint
